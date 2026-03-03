@@ -12,14 +12,12 @@ function App() {
   return (
     <>
     <Header/>
-    <body>
       <section className="cards">
         <CardJogo img={valorant} title="Valorant" genre="FPS" price={0} sale={true}/>
         <CardJogo img={minecraft} title="Minecraft" genre="Sandbox" price={75.00} sale={true}/>
         <CardJogo img={forza} title="Forza" genre="Corrida" price={299.00} sale={false}/>
         <CardJogo img={ksp} title="Kerbal Space Program" genre="Sandbox" price={82.00} sale={false}/>
       </section>
-    </body>
     <Footer/>
     </>
   )

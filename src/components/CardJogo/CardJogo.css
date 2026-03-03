@@ -16,3 +16,7 @@
     width: 250px;
     height: 250px;
 }
+
+.preco {
+    font-weight: bold;
+}
