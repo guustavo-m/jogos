@@ -44,6 +44,13 @@ header{
     border-radius: 10px;
 }
 
+.sp1:hover, .sp2:hover {
+    background-color: aliceblue;
+    color: black;
+    border: 1px solid;
+    padding: 5px
+}
+
 .sp2 {
     background-color: blueviolet;
     color: white;

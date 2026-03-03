@@ -4,7 +4,7 @@ function Footer () {
     return(
         <>
         <footer>
-            <p>Join the Twitch Community ! Check out the latest streams and games</p>
+            <p>Entre para a comunidade Twitch ! Veja as lives e jogos mais recentes !</p>
             <span>Sign up</span>
         </footer>
         </>
