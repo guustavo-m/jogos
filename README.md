@@ -1,5 +1,9 @@
-# React + Vite
+# Projeto de Jogos 👩‍💻🎮
 
+Template similar à Twitch feito para exibir 4 jogos em cards usando React
+
+---
+# React + Vite
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
