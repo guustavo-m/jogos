@@ -1,0 +1,52 @@
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: white;
+}
+
+.logo {
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo img{
+    width: 30px;
+}
+
+.searchBar input {
+    width: 350px;
+    background-color: rgb(193, 193, 193);
+    border: 1px solid rgb(193, 193, 193);
+    border-radius: 5px;
+    outline: none;
+    box-shadow: none;
+    padding: 7px;
+}
+
+.login{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+.sp1 {
+    background-color: rgb(193, 193, 193);
+    padding: 6px;
+    border-radius: 10px;
+}
+
+.sp2 {
+    background-color: blueviolet;
+    color: white;
+    padding: 6px;
+    border-radius: 10px;
+}

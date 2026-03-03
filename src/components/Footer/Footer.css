@@ -1,0 +1,18 @@
+footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background-color: blueviolet;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: white;
+    margin-top: 8.7rem;
+}
+
+span {
+    background-color: white;
+    color: black;
+    padding: 6px;
+    border-radius: 10px;
+}
